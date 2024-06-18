@@ -3,7 +3,7 @@ In this code, we convert points from base 100 to base 5.
 Purpose of the code is learn how to use dynamic memory management.
 
 Developer: Barış Someroğlu
-Date: 18.06.2024
+Date: 18.06.2024 - 03:00 pm
 */
 
 #include <iostream>
